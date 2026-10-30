@@ -1,0 +1,10 @@
+energy_1 = float(input())
+energy_2 = float(input())
+
+print(energy_1 + energy_2)
+print(energy_1 - energy_2)
+print(energy_1 * energy_2)
+print(energy_1 / energy_2)
+print(energy_1 ** energy_2)
+print(energy_1 // energy_2)
+print(energy_1 % energy_2)
